@@ -61,7 +61,7 @@ p {
 }
 
 
-.active-link:active{
+.active-link:focus{
     background-color: hsl(75, 94%, 57%);
     color: black;
 }
