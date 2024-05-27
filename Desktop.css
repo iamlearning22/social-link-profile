@@ -59,3 +59,9 @@ p {
     background-color: hsl(0, 0%, 20%);
     font-weight: 600;
 }
+
+
+.active-link:active{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
